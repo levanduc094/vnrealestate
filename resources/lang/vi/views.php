@@ -1,0 +1,61 @@
+<?php
+
+return [
+
+    'default.bedroom' => 'Phòng ngủ',
+    'default.bathroom' => 'Phòng tắm',
+    'default.properties' => 'Bất động sản',
+    'default.agentList' => 'Danh sách đại lý',
+    'default.gallery' => 'Bộ sưu tập',
+    'default.news' => 'Tin tức',
+    'default.contactUs' => 'Liên hệ chúng tôi',
+    'default.area' => 'Diện tích',
+    'default.squareFeet' => 'Mét vuông',
+
+    'navbar.home' => 'Trang chủ',
+    'navbar.properties' => 'Bất động sản',
+    'navbar.agents' => 'Đại lý',
+    'navbar.gallery' => 'Bộ sưu tập',
+    'navbar.news' => 'Tin tức',
+    'navbar.contact' => 'Liên hệ',
+    'navbar.user.profile' => 'Thông tin',
+
+    'search.enterCityState' => 'Nhập tên tỉnh, thành phố',
+    'search.chooseType' => 'Loại',
+    'search.chooseType.apartment' => 'Căn hộ',
+    'search.chooseType.house' => 'Nhà',
+    'search.chooseType.land' => 'Đất',
+    'search.purpose' => 'Mục đích',
+    'search.purpose.rent' => 'Cho thuê',
+    'search.purpose.sale' => 'Bán',
+    'search.bedroom' => 'Phòng ngủ',
+    'search.maxPrice' => 'Giá tối đa',
+
+    'footer.aboutUs' => 'Về chúng tôi',
+    'footer.aboutUs.description' => 'Mô tả.',
+    'footer.recentProperties' => 'Bất động sản gần đây',
+    'footer.menu' => 'Danh mục',
+    'footer.menu.properties' => 'Bất động sản',
+    'footer.menu.agents' => 'Đại lý',
+    'footer.menu.gallery' => 'Bộ sưu tập',
+    'footer.menu.news' => 'Tin tức',
+    'footer.menu.contact' => 'Liên hệ',
+
+    'index.joinNewsLetter' => 'Đăng kí bản tin',
+    'index.joinNewsLetter.submit' => 'GỬI',
+    'index.services' => 'Dịch vụ',
+    'index.featuredProperties' => 'Bất động sản nổi bật',
+    'index.testimonials' => 'Đánh giá',
+    'index.recentNews' => 'Tin tức gần đây',
+
+    'news.popularNews' => 'Tin xem nhiều',
+    'news.categories' => 'Danh mục',
+    'news.tags' => 'Thẻ',
+
+    'register' => 'Đăng ký',
+    'register.name' => 'Tên',
+    'register.email' => 'Địa chỉ email',
+    'register.password' => 'Mật khẩu',
+    'register.confirmPassword' => 'Xác nhận mật khẩu',
+    'register.registrationAsAgent' => 'Đại lý',
+];

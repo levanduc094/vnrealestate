@@ -1,0 +1,61 @@
+<?php
+
+return [
+
+    'default.bedroom' => 'Bedroom',
+    'default.bathroom' => 'Bathroom',
+    'default.properties' => 'Properties',
+    'default.agentList' => 'Agent List',
+    'default.gallery' => 'Gallery',
+    'default.news' => 'News',
+    'default.contactUs' => 'Contact Us',
+    'default.area' => 'Area',
+    'default.squareFeet' => 'Square Feet',
+
+    'navbar.home' => 'Home',
+    'navbar.properties' => 'Properties',
+    'navbar.agents' => 'Agents',
+    'navbar.gallery' => 'Gallery',
+    'navbar.news' => 'News',
+    'navbar.contact' => 'Contact',
+    'navbar.user.profile' => 'Profile',
+
+    'search.enterCityState' => 'Enter City or State',
+    'search.chooseType' => 'Choose Type',
+    'search.chooseType.apartment' => 'Apartment',
+    'search.chooseType.house' => 'House',
+    'search.chooseType.land' => 'Land',
+    'search.purpose' => 'Purpose',
+    'search.purpose.rent' => 'Rent',
+    'search.purpose.sale' => 'Sale',
+    'search.bedroom' => 'Bedroom',
+    'search.maxPrice' => 'Max Price',
+
+    'footer.aboutUs' => 'About Us',
+    'footer.aboutUs.description' => 'Description goes here.',
+    'footer.recentProperties' => 'Recent Properties',
+    'footer.menu' => 'Menu',
+    'footer.menu.properties' => 'Properties',
+    'footer.menu.agents' => 'Agents',
+    'footer.menu.gallery' => 'Gallery',
+    'footer.menu.news' => 'News',
+    'footer.menu.contact' => 'Contact',
+
+    'index.joinNewsLetter' => 'Join Our Newsletter',
+    'index.joinNewsLetter.submit' => 'SUBMIT',
+    'index.services' => 'Services',
+    'index.featuredProperties' => 'Featured Properties',
+    'index.testimonials' => 'Testimonials',
+    'index.recentNews' => 'Recent News',
+
+    'news.popularNews' => 'Popular News',
+    'news.categories' => 'Categories',
+    'news.tags' => 'Tags',
+
+    'register' => 'Register',
+    'register.name' => 'Name',
+    'register.email' => 'Email Address',
+    'register.password' => 'Password',
+    'register.confirmPassword' => 'Confirm Password',
+    'register.registrationAsAgent' => 'Registration As Agent',
+];
